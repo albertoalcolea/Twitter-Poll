@@ -1,0 +1,9 @@
+ipython==3.0.0
+MySQL-python==1.2.5
+oauthlib==0.7.2
+python-dateutil==2.4.2
+requests==2.6.0
+requests-oauthlib==0.4.2
+six==1.9.0
+tabulate==0.7.5
+twython==3.2.0
